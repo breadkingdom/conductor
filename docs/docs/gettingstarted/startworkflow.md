@@ -74,7 +74,7 @@ Send a `POST` request to `/workflow` with payload like:
 	        }
 	    }
     ],
-    "outputParameters": {
+    "outputParameters": {asd
     }
   },
   "input": {
